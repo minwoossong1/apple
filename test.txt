@@ -1,0 +1,13 @@
+로컬 저장소와 원격저장소 연결
+c드라이브 git2020을 추가
+git init으로 초기화한 상태
+
+git remote add origin
+
+repo이름 min
+실행하고 나면
+
+git remote -v
+origin fench
+origin push
+연결성공
